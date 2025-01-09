@@ -1,6 +1,6 @@
 Dağıtık Abonelik Servisi
 
-Bu proje, Dağıtık Abonelik Servisi ödevi kapsamında geliştirilmiştir. Ruby, Java ve Python kullanılarak bir HASUP (Hata-Tolere Abonelik Servisi Üyelik Protokolü) sistemi uygulanmıştır. Sistem hata toleransı, yük dengeleme ve dağıtık mimari prensipleri doğrultusunda tasarlanmıştır.
+Projemiz, Dağıtık Abonelik Servisi ödevi kapsamında geliştirilmiştir. Ruby, Java ve Python kullanarak bir HASUP (Hata-Tolere Abonelik Servisi Üyelik Protokolü) sistemi uyguladık. Sistem hata toleransı, yük dengeleme ve dağıtık mimari prensipleri doğrultusunda tasarlanmıştır.
 Projenin Özeti
 
 Sistem aşağıdaki bileşenlerden oluşmaktadır:
