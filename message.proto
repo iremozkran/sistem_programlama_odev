@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+enum DemandType {
+  CPCTY = 0;
+  STRT = 1;
+  SUBS = 2;
+  DEL = 3;
+  UPDT = 4;
+  ONLN = 5;
+  OFFL = 6;
+}
+
+enum ResponseType {
+  NULL = 0;
+  YEP = 1;
+  NOP = 2;
+}
+
+message Message {
+  DemandType demand = 1;
+  ResponseType response = 2;
+  int32 server_id = 3;
+}
