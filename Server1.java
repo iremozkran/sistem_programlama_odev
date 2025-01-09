@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.concurrent.*;
 
 public class Server1 {
-    private static final int PORT = 5001; // Server1 port
+    private static final int PORT = 5001; 
     private static final List<Subscriber> subscribers = Collections.synchronizedList(new ArrayList<>());
     private static final ExecutorService threadPool = Executors.newCachedThreadPool();
 
