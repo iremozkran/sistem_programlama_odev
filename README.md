@@ -100,6 +100,7 @@ Sunucuların kapasite bilgilerini grafiksel olarak gösteren bir Python uygulama
 Subscriber nesnelerinin sunuculara gönderilmesi sağlandı.
 
 Ekip üyeleri:
+
 22060365,Nisanur Şahin
 
 22060381,İrem Özkıran
